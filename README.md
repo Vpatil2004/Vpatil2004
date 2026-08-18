@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I’m Vaishnavi Patil, a Computer Engineering graduate with skills in Python, SQL, web development, and data analysis. I have experience working on projects involving cloud-based applications and AI, along with internships in web development and data science. I’m a quick learner and excited to contribute my skills while growing professionally.
 <!--
 **Vpatil2004/Vpatil2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
