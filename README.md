@@ -1,5 +1,11 @@
-## Hi there 👋
-Hi, I’m Vaishnavi Patil, a Computer Engineering graduate with skills in Python, SQL, web development, and data analysis. I have experience working on projects involving cloud-based applications and AI, along with internships in web development and data science. I’m a quick learner and excited to contribute my skills while growing professionally.
+### Hi, I'm Vaishnavi Patil 👋
+
+🎓 B.E. Computer Engineering graduate from PDEA's College of Engineering, Pune
+💼 Data Analyst Intern @ Infotact Solutions — working on FinGraph, a graph-based bank fraud detection system
+🧠 Focused on graph databases & algorithms (Neo4j, Cypher, GDS), Python, and data analysis
+🌱 Open to software / application support roles
+📍 Based in Pune, India
+
 <!--
 **Vpatil2004/Vpatil2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
